@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Calibration>
+	<Min_Distance_mm_>30</Min_Distance_mm_>
+	<Max_Distance_mm_>161</Max_Distance_mm_>
+	<Min_Blob_Area>3</Min_Blob_Area>
+	<Max_Blob_Area>1</Max_Blob_Area>
+</Calibration>
